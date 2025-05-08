@@ -1,8 +1,8 @@
 |                                         |   Pass Rate |
 |:----------------------------------------|------------:|
-| tests                                   |          17 |
-| darwin                                  |          33 |
-| java-tests                              |          71 |
+| darwin                                  |          21 |
+| tests                                   |          43 |
+| builds                                  |          71 |
 | build-example-nxp                       |         100 |
 | documentation-build                     |         100 |
 | build-example-ti-cc32xx                 |         100 |
@@ -34,8 +34,9 @@
 | issue-labeler                           |         100 |
 | validate-gradle-wrapper                 |         100 |
 | minimal-build-linux-configure           |         100 |
+| java-tests                              |         100 |
 | build-example-ameba                     |         100 |
-| builds                                  |         100 |
+| run-misspell                            |         100 |
 | tv-casting-example-darwin               |         100 |
 | process-stale-issues-and-prs            |         100 |
 | cirque                                  |         100 |
